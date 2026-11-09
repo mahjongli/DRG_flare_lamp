@@ -1,7 +1,7 @@
 
 | Item | Qty | Notes |
 | :--- | :---: | :--- |
-| 18650 Li-ion cell, protected | 2 | Same brand and charge level. 69 mm max length is what the channel allows. |
+| 18650 Li-ion cell, protected | 2 | https://thepihut.com/products/18650-lithium-ion-rechargeable-cell-2500mah-3-7v|
 | Cell spring contacts or compression springs | 2 | About 8–9 mm diameter, for the negative ends |
 | Nickel strip, about 8 mm wide | about 30 mm | Joins the two + ends in the middle |
 | USB-C charger and protection module (TP4056 + DW01 type) | 1 | About 17 × 28 mm board, 1 A charging |
